@@ -1,0 +1,21 @@
+### Load colors from pywal
+include=/home/rainz/.cache/wal/colors-mako
+
+### Appearance
+font=Inter 10
+border-size=2
+border-radius=10
+padding=12
+margin=8
+
+### Behavior
+default-timeout=5000
+max-visible=5
+icons=1
+max-icon-size=64
+
+anchor=top-right
+
+on-button-left=dismiss
+on-button-middle=dismiss-all
+on-button-right=dismiss
